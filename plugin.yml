@@ -1,0 +1,8 @@
+name: MjrmCraft
+main: mjrm\Main
+version: 1.1.5v
+api: 3.0.0
+author: cvv_119
+commands:
+  food:
+      description: set hunger 20
